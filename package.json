@@ -19,7 +19,7 @@
     "test:watch": "nwb test-react --server"
   },
   "dependencies": {
-    "inputmask-core": "^2.1.1",
+    "inputmask-core": "mdgbayly/inputmask-core#blankPlaceholderChar",
     "prop-types": "^15.5.7"
   },
   "peerDependencies": {
